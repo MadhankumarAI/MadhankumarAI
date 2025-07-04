@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Madhan Kumar R</h1>
-<h3 align="center">Artificial Intelligence & Machine Learning @ DSCE | Developer | Innovator | Tech Explorer</h3>
+<h3 align="center">Artificial Intelligence & Machine Learning @ DSCE | Developer | Aspiring DL expert | Tech Explorer</h3>
 
 <p align="center">
 
