@@ -30,14 +30,14 @@
 ### ⚙️ Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://img.shields.io/badge/Scikitlearn-005571?style=flat&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/UiPath-0076C0?style=flat&logo=uipath&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Librosa-black?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Librosa-black?style=flat&logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/SpeechRecognition-4B8BBE?style=flat&logo=python&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=flask" />
 </p>
@@ -47,6 +47,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,figma" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoCAD-E34F26?style=flat&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/UiPath-0076C0?style=flat&logo=uipath&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
