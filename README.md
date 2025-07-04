@@ -65,6 +65,11 @@
 </p>
 
 ---
+##  GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhankumarAI&theme=gruvbox&hide_border=true" />
+</p>
 
 ## 🏆 Achievements
 
