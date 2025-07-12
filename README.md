@@ -14,7 +14,7 @@
 - 🧠 Patent published – **Aerodrive**, a wind-powered EV charger  
 - 🤝 Open to collaborations, research, and building smart projects  
 - 👀 Passionate about Deep Learning and system-level thinking  
-- 📽️ Turning sci-fi ideas into real-world solutions  
+- 📽️ Turning sci-fi ideas into real-world solutions , it's for real believe me :)
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I'm diving deeper into Deep Learning ; not just as a skill, but as a lifelong journey 
 
